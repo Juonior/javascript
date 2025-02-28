@@ -10,8 +10,13 @@
 
 This guide is available in other languages too. See [Translation](#translation)
 
+<<<<<<< HEAD
 ghdfghfgdhgfdgdfgOther Style Guides
 gghgfhgfhgfgdfgfd
+=======
+hdfghfgdhgfdgdfgOther Style Guides
+ggghgfhgfhgfgdfgfd
+>>>>>>> 6f823cee95ca46fae6a19078ddd302ffbd91c19b
   - [ES5 (Deprecated)](https://github.com/airbnb/javascript/tree/es5-deprecated/es5)
 g  - [React](react/)
   - [CSS-in-JavaScript](css-in-javascript/)
