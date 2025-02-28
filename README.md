@@ -11,7 +11,7 @@
 This guide is available in other languages too. See [Translation](#translation)
 
 hdfghfgdhgfdgdfgOther Style Guides
-gghgfhgfhgfgdfgfd
+ggghgfhgfhgfgdfgfd
   - [ES5 (Deprecated)](https://github.com/airbnb/javascript/tree/es5-deprecated/es5)
   - [React](react/)
   - [CSS-in-JavaScript](css-in-javascript/)
