@@ -10,7 +10,7 @@
 
 This guide is available in other languages too. See [Translation](#translation)
 
-gfdgdfgOther Style Guides
+hdfghfgdhgfdgdfgOther Style Guides
 hgfhgfhgfgdfgfd
   - [ES5 (Deprecated)](https://github.com/airbnb/javascript/tree/es5-deprecated/es5)
   - [React](react/)
